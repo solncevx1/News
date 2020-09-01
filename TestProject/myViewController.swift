@@ -1,22 +1,20 @@
 //
-//  ViewController.swift
+//  myViewController.swift
 //  TestProject
 //
-//  Created by Максим Солнцев on 6/11/20.
+//  Created by Максим Солнцев on 6/12/20.
 //  Copyright © 2020 Максим Солнцев. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class myViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-        
-        
+
     }
+    
 
 
 }
-
